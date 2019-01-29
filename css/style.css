@@ -1,0 +1,15 @@
+section
+{
+    background-color: brown;
+    margin-bottom:10px;
+}
+.bgc{
+    background-color: rgb(71, 71, 224);
+    min-height: 50px;
+    border: 3px solid green;
+}
+.bgcc{
+    background-color: red;
+    min-height: 50px;
+    border: 3px solid green;
+}
